@@ -22,8 +22,6 @@ This repository contains numerical experiments that model this **Asset-Liability
 ---
 
 ![System Topology](./img/network_contagion_topology.jpg)
-   
-*Network topology visualization*
 ---   
 
 
