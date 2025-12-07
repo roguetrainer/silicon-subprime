@@ -14,6 +14,15 @@ The current AI infrastructure boom is being funded by a "Shadow Banking" system 
 
 This repository contains numerical experiments that model this **Asset-Liability Mismatch (ALM)** using the IMF's "Four L's" of systemic risk.
 
+
+### More on systemic risk
+* [**Case Study - GPU Financial Complex**](https://github.com/roguetrainer/systemic-risk/blob/main/docs/gpu-financial-complex.md)  
+  * Are there lessons to be learned from the 2008 GFC that can be applied to understanding the 2025-26 AI bubble? Is it different this time?
+
+#### Related repos
+[systemic-risk](https://github.com/roguetrainer/systemic-risk) | [systemic-risk-intro](https://github.com/roguetrainer/systemic-risk-intro) | [systemic-risk-metrics](https://github.com/roguetrainer/systemic-risk-metrics) | [silicon-subprime](https://github.com/roguetrainer/silicon-subprime) | [too-big-to-teraflop](https://github.com/roguetrainer/too-big-to-teraflop) | [systemic-risk/docs/](https://github.com/roguetrainer/systemic-risk/blob/main/docs/) {
+ [systemic-risk-overview](https://github.com/roguetrainer/systemic-risk/blob/main/docs/systemic-risk-overview.md) | [gpu-financial-complex](https://github.com/roguetrainer/systemic-risk/blob/main/docs/gpu-financial-complex)}
+
 ## 🧮 The Experiments
 
 ### 1. `asset_shock.py` (The "Moore's Law" Decay)
@@ -52,3 +61,8 @@ python contagion_matrix.py --hoarding_multiplier 2.0
 * Goldman Sachs: "Gen AI: Too Much Spend, Too Little Benefit?"
 
 Disclaimer: This project is a theoretical risk modeling exercise for educational purposes. It does not constitute financial advice or an actual prediction of specific company defaults.
+
+
+### 🧭 Navigation
+[systemic-risk](https://github.com/roguetrainer/systemic-risk) | [systemic-risk-intro](https://github.com/roguetrainer/systemic-risk-intro) | [systemic-risk-metrics](https://github.com/roguetrainer/systemic-risk-metrics) | [silicon-subprime](https://github.com/roguetrainer/silicon-subprime) | [too-big-to-teraflop](https://github.com/roguetrainer/too-big-to-teraflop) | [systemic-risk/docs/](https://github.com/roguetrainer/systemic-risk/blob/main/docs/) {
+ [systemic-risk-overview](https://github.com/roguetrainer/systemic-risk/blob/main/docs/systemic-risk-overview.md) | [gpu-financial-complex](https://github.com/roguetrainer/systemic-risk/blob/main/docs/gpu-financial-complex)}

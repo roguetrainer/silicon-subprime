@@ -1,5 +1,4 @@
 
-
 # The Silicon Subprime Thesis: A Systemic Risk Overview
 
 ## 1\. The Framework: The "Four Ls" of AI Systemic Risk
@@ -113,3 +112,7 @@ This video provides a clear breakdown of the "Circular Financing" linkages descr
 * **[The AI Bubble Is Bigger Than You Think](https://prospect.org/2025/11/19/ai-bubble-bigger-than-you-think/)**
     * *Source:* [The American Prospect](https://prospect.org)
     * > "This is the case with an SPV for Meta's $30 billion Hyperion data center in Louisiana. Blue Owl, a private credit fund, owns the majority stake in the SPV; it ..."
+
+### 🧭 Navigation - More on Systemic Risk 🁶 
+[systemic-risk](https://github.com/roguetrainer/systemic-risk) | [systemic-risk-intro](https://github.com/roguetrainer/systemic-risk-intro) | [systemic-risk-metrics](https://github.com/roguetrainer/systemic-risk-metrics) | [silicon-subprime](https://github.com/roguetrainer/silicon-subprime) | [too-big-to-teraflop](https://github.com/roguetrainer/too-big-to-teraflop) | [systemic-risk/docs/](https://github.com/roguetrainer/systemic-risk/blob/main/docs/) {
+ [systemic-risk-overview](https://github.com/roguetrainer/systemic-risk/blob/main/docs/systemic-risk-overview.md) | [gpu-financial-complex](https://github.com/roguetrainer/systemic-risk/blob/main/docs/gpu-financial-complex)}
