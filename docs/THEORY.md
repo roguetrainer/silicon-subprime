@@ -1,5 +1,6 @@
 # The Silicon Subprime Thesis: A Systemic Risk Overview
 
+![](../img/refinancing-engine-etching.png)
 ## 1. Introduction: The "Meta-Bubble"
 The current AI infrastructure boom is not merely a technology trend; it is a financial phenomenon. We observe a **structural isomorphism** between the 2025 AI "Compute" market and the 2006-2007 Mortgage-Backed Securities (MBS) market.
 
@@ -28,6 +29,10 @@ While Private Credit funds the *infrastructure*, Retail Traders fund the *valuat
 * **The Feedback:** High equity valuations act as the "Unsecured Equity Tranche" that justifies the private credit lending. (i.e., "Nvidia is worth $3T, so lending to its customers is safe.")
 * **The Risk:** A "Gamma Squeeze" in reverse. If stocks drop >10%, automated broker liquidations force massive selling. This creates a "Wealth Effect" shock that devalues the collateral underpinning the Private Credit deals.
 
+---
+![](../img/retail_feedback_loop.jpg)
+---
+
 ### **Quantitative Context: The "Shadow Leverage" of 2025**
 Unlike 2008, where consumer leverage was visible in mortgage debt, 2025 leverage is hidden in derivatives.
 * **0DTE Options:** Zero-Day-To-Expiration options now comprise **~50% of SPX volume**. This effectively allows retail traders to leverage their capital 100x+ for a single day, creating massive "Gamma Risk" for market makers who must hedge these bets.
@@ -38,6 +43,10 @@ The crisis point is the **2028 Refinancing Wall**.
 * **Liability Side:** The loans are typically 3-5 year "Private Credit" facilities. They are often **Interest-Only**, meaning the principal ($1B+) is due in a single balloon payment at the end.
 * **Asset Side:** By 2028, the H100s will be 4 years old. In semiconductor terms, they are e-waste.
 * **The Trap:** No bank will refinance a $1B loan on e-waste. The SPV must pay the balloon with cash it doesn't have. *Liquidity vanishes exactly when it is needed most.*
+
+---
+![Refinancing Engine](../img/refinancing_engine.jpg)
+---
 
 ### **L4: Linkages (The Contagion Map)**
 This is not a random network; it is a **Circular Financing Scheme**.
@@ -50,6 +59,8 @@ This is not a random network; it is a **Circular Financing Scheme**.
 * **The Failure Mode:** If Step 2 stops (Credit Freeze), Step 4 (Nvidia Revenue) collapses, which hurts Step 1 (Valuation), which triggers a default in Step 2.
 
 ---
+![System Topology](../img/network_contagion_topology.jpg)
+---   
 
 ## 3. The Hierarchy of Money & "Shadow Money" Creation
 Following the "Money View" (Perry Mehrling), we analyze how this bubble creates "Shadow Money."

@@ -3,8 +3,12 @@
 
 > *"History doesn't repeat itself, but it rhymes."* — A structural analysis of Duration Mismatch in GPU-backed Private Credit.
 
-![System Topology](https://via.placeholder.com/800x400?text=Network+Contagion+Topology+Map) 
-*(Place the network topology visualization here)*
+---
+![Refinancing Engine](./img/refinancing-engine-etching.png)
+
+---
+
+   
 
 ## 🏛️ The Thesis
 The current AI infrastructure boom is being funded by a "Shadow Banking" system that mirrors the pre-2008 Mortgage-Backed Securities market. 
@@ -12,7 +16,15 @@ The current AI infrastructure boom is being funded by a "Shadow Banking" system 
 - **The Liability:** 5-Year Private Credit Loans (Bullet Maturity)
 - **The Risk:** A "Refinancing Wall" in 2027-2028 where collateral value falls below the loan principal, triggering a liquidity spiral.
 
-This repository contains numerical experiments that model this **Asset-Liability Mismatch (ALM)** using the IMF's "Four L's" of systemic risk.
+This repository contains numerical experiments that model this **Asset-Liability Mismatch (ALM)** using the IMF's "Four Ls" of systemic risk.
+
+![Refinancing Engine](./img/refinancing_engine.jpg)
+---
+
+![System Topology](./img/network_contagion_topology.jpg)
+   
+*Network topology visualization*
+---   
 
 
 ### More on systemic risk
