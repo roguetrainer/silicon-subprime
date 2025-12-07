@@ -1,4 +1,7 @@
-# AI Bubble Paradox
+# Appendix: The AI Bubble Paradox
+
+Going down a logical rabbit hole! 🐇
+
 ## An apparent paradox?
 
 > I asked AI to tell me if AI is a bubble. You, AI chatbot, say that it is. If you are right, then it's a bubble, because you say so. If you are wrong, then what is all the money being spent on anyway?! So it's also a bubble?
