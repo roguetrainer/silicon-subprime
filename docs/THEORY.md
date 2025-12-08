@@ -30,7 +30,7 @@ While Private Credit funds the *infrastructure*, Retail Traders fund the *valuat
 * **The Risk:** A "Gamma Squeeze" in reverse. If stocks drop >10%, automated broker liquidations force massive selling. This creates a "Wealth Effect" shock that devalues the collateral underpinning the Private Credit deals.
 
 ---
-![](../img/retail_feedback_loop.jpg)
+![Feedback](../img/retail_feedback_loop.jpg)
 ---
 
 ### **Quantitative Context: The "Shadow Leverage" of 2025**
@@ -66,7 +66,8 @@ This is not a random network; it is a **Circular Financing Scheme**.
 Following the "Money View" (Perry Mehrling), we analyze how this bubble creates "Shadow Money."
 
 ### **The "Manufacturing of Safe Assets"**
-**Just as the 2008 financial system transformed risky mortgages into "safe" AAA bonds, the 2025 AI complex is attempting to transform volatile GPU hardware into investment-grade collateral.** * **The Narrative:** "Compute is the new oil." The market assumes demand for AI training is infinite, making the cash flows from these chips appear secure enough to support leverage.
+**Just as the 2008 financial system transformed risky mortgages into "safe" AAA bonds, the 2025 AI complex is attempting to transform volatile GPU hardware into investment-grade collateral.** 
+* **The Narrative:** "Compute is the new oil." The market assumes demand for AI training is infinite, making the cash flows from these chips appear secure enough to support leverage.
 * **The Reality:** Unlike oil, which is a commodity, H100s are a technology asset that depreciates rapidly.
 
 ### **How the Bubble Creates Money**

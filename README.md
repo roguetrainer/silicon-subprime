@@ -8,7 +8,7 @@
 
 ---
 
-   
+👷🏽‍♀️ WORK IN PROGRESS! Help me make these games more realistic & fun!
 
 ## 🏛️ The Thesis
 The current AI infrastructure boom is being funded by a "Shadow Banking" system that mirrors the pre-2008 Mortgage-Backed Securities market. 
@@ -46,6 +46,13 @@ A Bipartite Graph projection modeling the **Private Credit Syndicate**.
 * **Method:** Reconstructs the lending network based on public "tombstones" (e.g., Blackstone, Blue Owl, CoreWeave deals).
 * **Mechanism:** Implements a "Hoarding Multiplier." When a lender takes a mark-to-market loss on a toxic vintage (SPV 1), they withdraw liquidity from healthy vintages (SPV 2).
 * **Result:** Demonstrates how a specific asset shock becomes a systemic credit crunch.
+
+## The Games
+[**The Games**](./docs/GAMES.md)
+
+| Shadow Book | Syndicate | Tranche Defense |
+|---------|---------|---------|
+| ![](./img/Game-1-Shadow-Book.png) | ![](/img/Game-2-Syndicate.png) | ![](/img/Game-3-Tranche-Defense.png) |
 
 ## 📊 Key Findings from the Model
 1.  **The Leverage Trap:** At a 0.50 decay rate (simulating the Blackwell release), LTV breaches 100% in **1.5 years**, rendering the 5-year loan structure structurally unsound.
