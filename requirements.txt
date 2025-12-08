@@ -1,1 +1,5 @@
-numpy\npandas\nnetworkx\nipywidgets\ngradio
+numpy
+pandas
+networkx
+ipywidgets
+gradio

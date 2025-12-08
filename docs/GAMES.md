@@ -7,6 +7,10 @@ This repository contains three interactive simulations designed to gamify the sy
 ## 🎮 Game 1: The Shadow Book
 **Risk Focus:** *Linkages (L4)* & *Opacity*
 
+---
+![Shadow Book](../img/Game-1-Shadow-Book.png)
+---
+
 ### The Simulation
 You play as a Chief Risk Officer managing a portfolio of loans to AI Service Providers (SPVs).
 * **The Mechanic:** You can see your own exposure, but you cannot see the full "Cap Table" of your borrowers.
@@ -22,6 +26,10 @@ This simulates the **"Shadow Banking" Information Asymmetry** flagged by the Ban
 ## 🎮 Game 2: The Syndicate
 **Risk Focus:** *Liquidity (L3)* & *Retail Reflexivity (L2.5)*
 
+---
+![Syndicate](../img/Game-2-Syndicate.png)
+---
+
 ### The Simulation
 You are part of a "Club Deal"—a syndicate of lenders funding a single $1B AI Data Center.
 * **The Mechanic:** A Multiplayer Prisoner’s Dilemma. Every turn, you must choose to **Cooperate** (Extend the Loan) or **Defect** (Margin Call).
@@ -36,6 +44,10 @@ This simulates a **Wholesale Bank Run** on an illiquid asset.
 
 ## 🎮 Game 3: Tranche Defense
 **Risk Focus:** *Loss (L1)* & *Leverage (L2)*
+
+---
+![Tranche Defense](../img/Game-3-Tranche-Defense.png)
+---
 
 ### The Simulation
 You manage the **Capital Waterfall** of a specific financing vehicle.

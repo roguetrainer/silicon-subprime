@@ -9,7 +9,7 @@ echo "=========================================="
 echo "Silicon Subprime - Environment Setup"
 echo "=========================================="
 echo ""
-
+alias python3="/usr/local/bin/python3"
 # Check Python version
 echo "Checking Python version..."
 if ! command -v python3 &> /dev/null; then
